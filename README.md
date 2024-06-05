@@ -1,1 +1,2 @@
 # javascript-form-validation
+JavaScriptでフォームバリデーションを実装しました。
